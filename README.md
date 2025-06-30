@@ -7,7 +7,7 @@ It includes a basic version and a custom-styled version with color and size cont
 
 ## Project Files
 
-File Name                What It Does 
+File Name       ---         What It Does 
 
 `qrcode_gen.py`          Generates a basic black-and-white QR code from user input          
 `qrcode1_desi_gen.py`    Generates a QR code with custom color, box size, and border        
